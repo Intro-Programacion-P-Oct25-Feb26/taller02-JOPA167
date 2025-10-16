@@ -16,7 +16,7 @@ Manejado desde GitHub
   Recuerde usar la sentencia
 
 ```java
-System.out.println("Ejemplo básico de Java Versionado a través de Git Manejado desde GitHub");
+System.out.println("Ejemplo básico de Java Versionado a través de Git Manejado desde GitHub, cambio ");
 ```
 
 4. Regresar al git-bash (verificar que estemos dentro de la carpeta clonada, pwd)
